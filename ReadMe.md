@@ -13,3 +13,5 @@
 [![](https://visitcount.itsvg.in/api?id=Nunderns&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/Nunderns/nunderns/blob/output/github-snake-dark.svg)
