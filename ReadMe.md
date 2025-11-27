@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nunderns!
+# Hi there 👋, I'm Henri Okayama!
 
 <!-- Optional: Add a brief introduction about yourself here -->
 <!-- Example: I'm a passionate developer exploring various technologies. -->
