@@ -55,21 +55,9 @@ Explore my projects, case studies, and technical experiments — from academic s
 ---
 
 ## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nunderns&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunderns&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nunderns&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/Nunderns/Nunderns/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 📫 Contact
 - Email: henri.okayama@gmail.com
