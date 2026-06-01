@@ -48,7 +48,7 @@ I work mainly with **TypeScript**, **Next.js**, and **NestJS**, combining modern
 
 ## 🌐 Portfolio
 
-🔗 **https://next-portfolio-ebon.vercel.app/**
+🔗 **https://portifolio-gsap.vercel.app/**
 
 Explore my projects, case studies, and technical experiments — from academic systems to fullstack SaaS applications.
 
