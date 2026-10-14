@@ -1,64 +1,89 @@
-# Hi 👋, I'm Henri Okayama
-
-Fullstack Developer focused on building scalable web applications, robust APIs, and clean user experiences.
-
-I work mainly with **TypeScript**, **Next.js**, and **NestJS**, combining modern frontend architectures with well-structured backends. Currently developing SaaS products and academic projects, always aiming for performance, maintainability, and real-world impact.
-
----
-
-## 🚀 Current Focus
-
-- Fullstack SaaS applications  
-- API design & backend architecture  
-- Authentication & authorization flows  
-- PostgreSQL & Prisma  
-- Clean code and scalable systems  
-
----
-
-## 💻 Tech Stack & Skills
-
-### 🌐 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/chakra-black.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-
-### ⚙️ Backend & Validation
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/express-black.svg?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-red.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23777BB4.svg?style=for-the-badge&logo=django&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23121011.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🌐 Portfolio
-
-🔗 **https://portifolio-gsap.vercel.app/**
-
-Explore my projects, case studies, and technical experiments — from academic systems to fullstack SaaS applications.
-
----
-
-## 📊 GitHub Stats & Activity
+<!-- Header -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nunderns&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Henri%20Okayama&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=18" alt="Henri Okayama" />
 </p>
 
-## 📫 Contact
-- Email: henri.okayama@gmail.com
-- Linkedin: https://www.linkedin.com/in/henri-okayama-33a091279/
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=600&lines=TypeScript+%E2%80%A2+Next.js+%E2%80%A2+NestJS;Building+scalable+SaaS+products;Clean+APIs+%26+solid+architecture" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portifolio-gsap.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/henri-okayama-33a091279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:henri.okayama@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Nunderns&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+---
+
+## 👋 About me
+
+```ts
+const henri = {
+  role: "Fullstack Developer",
+  focus: ["SaaS applications", "API design", "Backend architecture"],
+  mainStack: ["TypeScript", "Next.js", "NestJS", "PostgreSQL", "Prisma"],
+  currently: "Building SaaS products & academic projects",
+  values: ["performance", "maintainability", "real-world impact"],
+};
+```
+
+## 🎯 Current focus
+
+| | |
+|---|---|
+| 🧩 **Fullstack SaaS** | End-to-end products, from UI to infrastructure |
+| 🔌 **API design** | RESTful, well-documented and validated APIs |
+| 🔐 **Auth flows** | Authentication, authorization and access control |
+| 🗄️ **Data layer** | PostgreSQL modeling with Prisma |
+| 🧼 **Clean code** | Scalable, testable and readable systems |
+
+## 🛠️ Tech stack
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,vite,tailwind,bootstrap&perline=10" alt="Frontend" />
+</p>
+
+**Backend & validation**
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,laravel,django,prisma&perline=10" alt="Backend" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" height="48" alt="Zod" />
+</p>
+
+**Databases & cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws&perline=10" alt="Databases & Cloud" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=10" alt="Tools" />
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nunderns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nunderns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nunderns&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nunderns&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+## 📫 Let's connect
+
+I'm open to collaborations, freelance projects and new opportunities.
+Feel free to reach out at **henri.okayama@gmail.com** or through [LinkedIn](https://www.linkedin.com/in/henri-okayama-33a091279/).
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" alt="footer" />
+</p>
