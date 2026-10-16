@@ -24,7 +24,7 @@
 const henri = {
   role: "Fullstack Developer",
   focus: ["SaaS applications", "API design", "Backend architecture"],
-  mainStack: ["TypeScript", "Next.js", "NestJS", "PostgreSQL", "Prisma"],
+  mainStack: ["Next.js", "NestJS", "Spring Boot", "FastAPI", "PostgreSQL"],
   currently: "Building SaaS products & academic projects",
   values: ["performance", "maintainability", "real-world impact"],
 };
@@ -42,26 +42,61 @@ const henri = {
 
 ## 🛠️ Tech stack
 
-**Frontend**
+
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,vue,vite,tailwind,bootstrap&perline=10" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,vite,tailwind,bootstrap,vercel,threejs,angular&perline=10" alt="Frontend" />
 </p>
 
-**Backend & validation**
+### Backend & Validation
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,laravel,django,prisma&perline=10" alt="Backend" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" height="48" alt="Zod" />
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel,django,prisma,spring,fastapi,bun,rabbitmq&perline=10" alt="Backend" /
 </p>
 
-**Databases & cloud**
+### Databases & Cloud
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws&perline=10" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,aws&perline=10" alt="Databases & Cloud" />
 </p>
 
-**Tools**
+### DevOps & Infrastructure
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=10" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions&perline=10" alt="DevOps" />
 </p>
+
+### Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,vitest&perline=10" alt="Testing" />
+</p>
+
+### Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows&perline=10" alt="Operating Systems" />
+</p>
+
+### Shells
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,powershell&perline=10" alt="Shells" />
+</p>
+
+### Tools & Productivity
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,idea,neovim,notion,obsidian,postman,pycharm&perline=10" alt="Tools" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,cloudflare,graphql,kubernetes,webflow&perline=10" alt="Currently Learning" />
+</p>
+
 
 ## 📊 GitHub stats
 
@@ -72,10 +107,6 @@ const henri = {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nunderns&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nunderns&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ## 📫 Let's connect
